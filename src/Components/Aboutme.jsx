@@ -16,12 +16,12 @@ const Aboutme = () => {
     <div className="aboutme_section flex flex-col gap-3 justify-center items-center">
       <div className="top_section flex flex-col justify-center items-center gap-3">
         <div className="aboutme_info bg-white rounded-xl p-4 text-xl w-[60%]">
-          "Hi there👋! I'm Raghu, a frontend developer driven by a love ❤️ for
-          creating captivating digital experiences. With a focus on HTML, CSS,
-          and JavaScript, ReactJs, TailwindCss I shape designs into
-          user-friendly interfaces.I enjoy crafting intuitive web solutions that
-          merge aesthetics with functionality. Let's build something amazing
-          together!"
+          "Hi there👋! I'm Raghu, a fullstack web developer driven by a love ❤️
+          for creating captivating digital experiences. With a focus on CSS, and
+          JavaScript, ReactJs, TailwindCss, ExpressJs , MongoDB , Figma. I shape
+          designs into user-friendly interfaces.I enjoy crafting intuitive web
+          solutions that merge aesthetics with functionality. Let's build
+          something amazing together!"
         </div>
         <div className="skills_section flex flex-wrap gap-2">
           <img
@@ -74,7 +74,9 @@ const Aboutme = () => {
         </div>
       </div>
       <div className="bottom_section mt-3">
-        <div className="heading mt-3 text-xl font-semibold text-white text-center">Certifications :</div>
+        <div className="heading mt-3 text-xl font-semibold text-white text-center">
+          Certifications :
+        </div>
         <div className="certificates flex gap-3 flex-wrap">
           <div
             className="individual_certificate relative rounded-xl p-2 flex flex-col justify-center items-center cursor-pointer bg-white w-36 h-36"
