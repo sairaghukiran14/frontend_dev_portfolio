@@ -6,6 +6,7 @@ import Homepage from "./Components/Homepage";
 import Aboutme from "./Components/Aboutme";
 import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
+import Work from "./Components/Work";
 function App() {
   return (
     <div className="homepage_section m-auto p-4 w-full h-full">
@@ -16,6 +17,7 @@ function App() {
             <Route path="/" element={<Homepage />} />
             <Route path="/projects" element={<Projects />} />
             <Route path="/aboutme" element={<Aboutme />} />
+            <Route path="/work" element={<Work />} />
           </Routes>
         </BrowserRouter>
         <Footer />

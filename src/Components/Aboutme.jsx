@@ -19,7 +19,8 @@ const Aboutme = () => {
           "Hi there👋! I'm Raghu, a fullstack web developer driven by a love ❤️
           for creating captivating digital experiences. With a focus on CSS, and
           JavaScript, ReactJs, TailwindCss, ExpressJs , MongoDB , Figma. I shape
-          designs into user-friendly interfaces.I enjoy crafting intuitive web
+          designs into user-friendly interfaces.I have done Internship and
+          provided my services to a startup.I enjoy crafting intuitive web
           solutions that merge aesthetics with functionality. Let's build
           something amazing together!"
         </div>

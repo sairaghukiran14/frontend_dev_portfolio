@@ -21,7 +21,7 @@ const Homepage = () => {
             py-3 text-blue-500 flex gap-2 cursor-pointer"
         >
           {" "}
-          $ avulasairaghukiran1998@gmail.com{" "}
+          $ avulasairaghukiran@gmail.com{" "}
         </div>
       </div>
     </div>
